@@ -3,10 +3,9 @@
 <br/>
 
 Hi there 👋
-- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
-- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
-- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose
-
+- 🌱 I’m currently working in NRV DesignX Pvt. Ltd., Noida
+- 🛠️ Skills: HTML, CSS, JavaScript, React, Redux, Tailwindcss, Bootstrap, Material UI, Git, Figma
+ 
 
 
 
@@ -14,7 +13,6 @@ Hi there 👋
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-kadyan-3553b81a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek jha" height="30" width="40" /></a>
-<a href="https://twitter.com/abhishekjha3098" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Nmj0gG2lUQWmmyJ-o8dxri2zr6ycuHJv7A&usqp=CAU" alt="abhishek jha" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
