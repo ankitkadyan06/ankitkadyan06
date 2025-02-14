@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kadyan</h1>
-<h3 align="center">An efficient Frontend web developer with skills in HTML, CSS, JavaScript, React, Bootstrap. Innovative, task-driven professional in web-designing, proficent in developing databases, user interfaces, writing & testing Codes, and implementing the featured based on the feedback.</h3>
+<h3 align="center">Dedicated Frontend Developer | Expertise in HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Tailwind CSS, Git, and REST APIs | Skilled at Building Responsive Web Applications and Adapting to Dynamic Challenges.</h3>
 <br/>
 
 Hi there 👋
